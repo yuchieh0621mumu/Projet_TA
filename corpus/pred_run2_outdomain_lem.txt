@@ -1,0 +1,500 @@
+15.
+indication D’ utilisation
+16.
+information EN braille
+Abseamed 4 000 UI/ 0,4 millilitre
+130 mention MINIMALES devant FIGURER SUR LES plaquette THERMOFORMÉES OU LES film THERMOSOUDÉS
+plaquette THERMOFORMEES
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 4 000 UI/ 0,4 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+nom DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+AUTRES
+<unk> mention MINIMALES devant FIGURER SUR LES petit conditionnement primaire
+ETIQUETTE/ seringue
+1.
+DENOMINATION DU MEDICAMENT ET VOIE(S) D’ administration
+Abseamed 4 000 UI/ 0,4 millilitre
+Époétine alfa IV/ SC
+2.
+mode D’ administration
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+contenu EN POIDS, volume OU UNITE
+6.
+AUTRES
+156 mention devant FIGURER SUR L’ emballage EXTERIEUR
+emballage EXTERIEUR
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 5 000 UI/ 0,5 ml, solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+composition EN SUBSTANCE(S) ACTIVE(S)
+1 seringue pré-remplie de 0,5 millilitre contient 5 000 unité internationale (UI) soit 84,0 microgrammes d’ époétine alfa
+3.
+liste DES excipient
+Excipients: phosphate phosphate phosphate cellulose microcristalline hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium (pour ajustement du pH) (pour ajustement du pH) (pour ajustement du pH) et eau pour l’ eau injectable
+4.
+forme PHARMACEUTIQUE ET contenu
+solution injectable en seringue pré-remplie.
+1 seringue pré-remplie de 0,5 millilitre 6 seringue pré-remplies de 0,5 millilitre
+5.
+mode ET VOIE(S) D' administration
+voie intraveineuse et sous-cutanée.
+lire la notice avant utilisation.
+Ne pas secouer.
+6.
+mise EN garde INDIQUANT QUE LE médicament S’ DES MEDICAMENT
+Tenir hors de la portée et de la vue des enfants.
+7.
+AUTRE(S) MISE(S) EN garde SPÉCIALE(S), si préalable
+8.
+date DE péremption
+EXP
+165 9.
+précaution PARTICULIÈRES DE conservation
+A conserver et transporter réfrigéré (entre 2°C et 8°C).
+Conserver la seringue pré-remplie dans l'emballage extérieur pour protéger la lumière.
+Ne pas congeler.
+10.
+précaution PARTICULIÈRES PARTICULIÈRES D’ élimination DES médicament PROVENANT DE CES médicament PROVENANT DE CES IL IL médicament A lieu
+11.
+nom ET adresse DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice Arzneimittel Pütter GmbH & Co kilogramme Kuhloweg 37 Allemagne
+12.
+NUMERO(S) D’ autorisation DE mise SUR LE marche
+EU/ 1/ 07/ 412/ 009 EU/ 1/ 07/ 412/ 010
+13.
+numéro DU lot
+lot
+14.
+condition DE prescription ET DE délivrance
+médicament soumis à prescription médicale.
+15.
+indication D’ utilisation
+16.
+information EN braille
+Abseamed 5 000 UI/ 0,5 millilitre
+164 mention MINIMALES devant FIGURER SUR LES plaquette THERMOFORMÉES OU LES film THERMOSOUDÉS
+plaquette THERMOFORMEES
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 5 000 UI/ 0,5 ml, solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+nom DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+AUTRES
+140 mention MINIMALES devant FIGURER SUR LES petit conditionnement primaire
+ETIQUETTE/ seringue
+1.
+DENOMINATION DU MEDICAMENT ET VOIE(S) D’ administration
+Abseamed 5 000 UI/ 0,5 millilitre
+Époétine alfa IV/ SC
+2.
+mode D’ administration
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+contenu EN POIDS, volume OU UNITE
+6.
+AUTRES
+156 mention devant FIGURER SUR L’ emballage EXTERIEUR
+emballage EXTERIEUR
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 6 000 UI/ 0,6 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+composition EN SUBSTANCE(S) ACTIVE(S)
+1 seringue pré-remplie de 0,6 millilitre contient 6 000 unité internationale (UI) soit 84,0 microgrammes d’ époétine alfa
+3.
+liste DES excipient
+Excipients: phosphate phosphate phosphate cellulose microcristalline hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium (pour ajustement du pH) (pour ajustement du pH) (pour ajustement du pH) et eau pour l’ eau injectable
+4.
+forme PHARMACEUTIQUE ET contenu
+solution injectable en seringue pré-remplie.
+1 seringue pré-remplie de 0,6 millilitre 6 seringue pré-remplies de 0,6 millilitre
+5.
+mode ET VOIE(S) D' administration
+voie intraveineuse et sous-cutanée.
+lire la notice avant utilisation.
+Ne pas secouer.
+6.
+mise EN garde INDIQUANT QUE LE médicament S’ DES MEDICAMENT
+Tenir hors de la portée et de la vue des enfants.
+7.
+AUTRE(S) MISE(S) EN garde SPÉCIALE(S), si préalable
+8.
+date DE péremption
+EXP
+132 9.
+précaution PARTICULIÈRES DE conservation
+A conserver et transporter réfrigéré (entre 2°C et 8°C).
+Conserver la seringue pré-remplie dans l'emballage extérieur pour protéger la lumière.
+Ne pas congeler.
+10.
+précaution PARTICULIÈRES PARTICULIÈRES D’ élimination DES médicament PROVENANT DE CES médicament PROVENANT DE CES IL IL médicament A lieu
+11.
+nom ET adresse DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice Arzneimittel Pütter GmbH & Co kilogramme Kuhloweg 37 Allemagne
+12.
+NUMERO(S) D’ autorisation DE mise SUR LE marche
+EU/ 1/ 07/ 412/ 011 EU/ 1/ 07/ 412/ 012
+13.
+numéro DU lot
+lot
+14.
+condition DE prescription ET DE délivrance
+médicament soumis à prescription médicale.
+15.
+indication D’ utilisation
+16.
+information EN braille
+Abseamed 6 000 UI / 0,6 millilitre
+168 mention MINIMALES devant FIGURER SUR LES plaquette THERMOFORMÉES OU LES film THERMOSOUDÉS
+plaquette THERMOFORMEES
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 6 000 UI/ 0,6 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+nom DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+AUTRES
+167 mention devant FIGURER SUR LES petit conditionnement primaire
+ETIQUETTE/ seringue
+1.
+DENOMINATION DU MEDICAMENT ET VOIE(S) D’ administration
+Abseamed 6 000 UI/ 0,6 millilitre
+Époétine alfa IV/ SC
+2.
+mode D’ administration
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+contenu EN POIDS, volume OU UNITE
+6.
+AUTRES
+156 mention devant FIGURER SUR L’ emballage EXTERIEUR
+emballage EXTERIEUR
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 7 000 UI/ 0,7 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+composition EN SUBSTANCE(S) ACTIVE(S)
+1 seringue pré-remplie de 0,7 millilitre contient 7 000 unité internationale (UI) soit 84,0 microgrammes d’ époétine alfa
+3.
+liste DES excipient
+Excipients: phosphate phosphate phosphate cellulose microcristalline hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium (pour ajustement du pH) (pour ajustement du pH) (pour ajustement du pH) et eau pour l’ eau injectable
+4.
+forme PHARMACEUTIQUE ET contenu
+solution injectable en seringue pré-remplie.
+1 seringue pré-remplie de 0,7 millilitre 6 seringue pré-remplies de 0,7 millilitre
+5.
+mode ET VOIE(S) D' administration
+voie intraveineuse et sous-cutanée.
+lire la notice avant utilisation.
+Ne pas secouer.
+6.
+mise EN garde INDIQUANT QUE LE médicament S’ DES MEDICAMENT
+Tenir hors de la portée et de la vue des enfants.
+7.
+AUTRE(S) MISE(S) EN garde SPÉCIALE(S), si préalable
+8.
+date DE péremption
+EXP
+161 9.
+précaution PARTICULIÈRES DE conservation
+A conserver et transporter réfrigéré (entre 2°C et 8°C).
+Conserver la seringue pré-remplie dans l'emballage extérieur pour protéger la lumière.
+Ne pas congeler.
+10.
+précaution PARTICULIÈRES PARTICULIÈRES D’ élimination DES médicament PROVENANT DE CES médicament PROVENANT DE CES IL IL médicament A lieu
+11.
+nom ET adresse DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice Arzneimittel Pütter GmbH & Co kilogramme Kuhloweg 37 Allemagne
+12.
+NUMERO(S) D’ autorisation DE mise SUR LE marche
+EU/ 1/ 07/ 412/ 017 EU/ 1/ 07/ 412/ 018
+13.
+numéro DU lot
+lot
+14.
+condition DE prescription ET DE délivrance
+médicament soumis à prescription médicale.
+15.
+indication D’ utilisation
+16.
+information EN braille
+Abseamed 7 000 UI/ 0,7 millilitre
+156 mention devant FIGURER SUR LES plaquette THERMOFORMÉES OU LES film THERMOSOUDÉS
+plaquette THERMOFORMEES
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 7 000 UI/ 0,7 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+nom DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+AUTRES
+163 mention MINIMALES devant FIGURER SUR LES petit conditionnement primaire
+ETIQUETTE/ seringue
+1.
+DENOMINATION DU MEDICAMENT ET VOIE(S) D’ administration
+Abseamed 7 000 UI/ 0,7 millilitre
+Époétine alfa IV/ SC
+2.
+mode D’ administration
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+contenu EN POIDS, volume OU UNITE
+6.
+AUTRES
+156 mention devant FIGURER SUR L’ emballage EXTERIEUR
+emballage EXTERIEUR
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 8 000 UI/ 0,8 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+composition EN SUBSTANCE(S) ACTIVE(S)
+1 seringue pré-remplie de 0,8 millilitre contient 8 000 unité internationale (UI) soit 84,0 microgrammes d’ époétine alfa
+3.
+liste DES excipient
+Excipients: phosphate phosphate phosphate cellulose microcristalline hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium (pour ajustement du pH) (pour ajustement du pH) (pour ajustement du pH) et eau pour l’ eau injectable
+4.
+forme PHARMACEUTIQUE ET contenu
+solution injectable en seringue pré-remplie.
+1 seringue pré-remplie de 0,8 millilitre 6 seringue pré-remplies de 0,8 millilitre
+5.
+mode ET VOIE(S) D' administration
+voie intraveineuse et sous-cutanée.
+lire la notice avant utilisation.
+Ne pas secouer.
+6.
+mise EN garde INDIQUANT QUE LE médicament S’ DES MEDICAMENT
+Tenir hors de la portée et de la vue des enfants.
+7.
+AUTRE(S) MISE(S) EN garde SPÉCIALE(S), si préalable
+8.
+date DE péremption
+EXP
+76 9.
+précaution PARTICULIÈRES DE conservation
+A conserver et transporter réfrigéré (entre 2°C et 8°C).
+Conserver la seringue pré-remplie dans l'emballage extérieur pour protéger la lumière.
+Ne pas congeler.
+10.
+précaution PARTICULIÈRES PARTICULIÈRES D’ élimination DES médicament PROVENANT DE CES médicament PROVENANT DE CES IL IL médicament A lieu
+11.
+nom ET adresse DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice Arzneimittel Pütter GmbH & Co kilogramme Kuhloweg 37 Allemagne
+12.
+NUMERO(S) D’ autorisation DE mise SUR LE marche SUR LE
+EU/ 1/ 07/ 412/ 013 EU/ 1/ 07/ 412/ 014
+13.
+numéro DU lot
+lot
+14.
+condition DE prescription ET DE délivrance
+médicament soumis à prescription médicale.
+15.
+indication D’ utilisation
+16.
+information EN braille
+Abseamed 8 000 UI / 0,8 millilitre
+166 mention devant FIGURER SUR LES plaquette THERMOFORMÉES OU LES film THERMOSOUDÉS
+plaquette THERMOFORMEES
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 8 000 UI/ 0,8 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+nom DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+AUTRES
+Abraxis mention MINIMALES devant FIGURER SUR LES petit conditionnement primaire
+ETIQUETTE/ seringue
+1.
+DENOMINATION DU MEDICAMENT ET VOIE(S) D’ administration
+Abseamed 8 000 UI/ 0,8 millilitre
+Époétine alfa IV/ SC
+2.
+mode D’ administration
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+contenu EN POIDS, volume OU UNITE
+6.
+AUTRES
+156 mention devant FIGURER SUR L’ emballage EXTERIEUR
+emballage EXTERIEUR
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 9 000 UI/ 0,9 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+composition EN SUBSTANCE(S) ACTIVE(S)
+1 seringue pré-remplie de 0,9 millilitre contient 9 000 unité internationale (UI) soit 84,0 microgrammes d’ époétine alfa
+3.
+liste DES excipient
+Excipients: phosphate phosphate phosphate cellulose microcristalline hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium (pour ajustement du pH) (pour ajustement du pH) (pour ajustement du pH) et eau pour l’ eau injectable
+4.
+forme PHARMACEUTIQUE ET contenu
+solution injectable en seringue pré-remplie.
+1 seringue pré-remplie de 0,9 millilitre 6 seringue pré-remplies de 0,9 millilitre
+5.
+mode ET VOIE(S) D' administration
+voie intraveineuse et sous-cutanée.
+lire la notice avant utilisation.
+Ne pas secouer.
+6.
+mise EN garde INDIQUANT QUE LE médicament S’ DES MEDICAMENT
+Tenir hors de la portée et de la vue des enfants.
+7.
+AUTRE(S) MISE(S) EN garde SPÉCIALE(S), si préalable
+8.
+date DE péremption
+EXP
+169 9.
+précaution PARTICULIÈRES DE conservation
+A conserver et transporter réfrigéré (entre 2°C et 8°C).
+Conserver la seringue pré-remplie dans l'emballage extérieur pour protéger la lumière.
+Ne pas congeler.
+10.
+précaution PARTICULIÈRES PARTICULIÈRES D’ élimination DES médicament PROVENANT DE CES médicament PROVENANT DE CES IL IL médicament A lieu
+11.
+nom ET adresse DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice Arzneimittel Pütter GmbH & Co kilogramme Kuhloweg 37 Allemagne
+12.
+NUMERO(S) D’ autorisation DE mise SUR LE marche SUR LE
+EU/ 1/ 07/ 412/ 019 EU/ 1/ 07/ 412/ 020
+13.
+numéro DU lot
+lot
+14.
+condition DE prescription ET DE délivrance
+médicament soumis à prescription médicale.
+15.
+indication D’ utilisation
+16.
+information EN braille
+Abseamed 9 000 UI 0,9 millilitre
+130 mention MINIMALES devant FIGURER SUR LES plaquette THERMOFORMÉES OU LES film THERMOSOUDÉS
+plaquette THERMOFORMEES
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 9 000 UI/ 0,9 millilitre solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+nom DU titulaire DE L’ autorisation DE mise SUR LE marché
+Medice
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+AUTRES
+125 mention devant FIGURER SUR LES petit conditionnement primaire
+ETIQUETTE/ seringue
+1.
+DENOMINATION DU MEDICAMENT ET VOIE(S) D’ administration
+Abseamed 9 000 UI/ 0,9 millilitre
+Époétine alfa IV/ SC
+2.
+mode D’ administration
+3.
+date DE péremption
+EXP
+4.
+numéro DU lot
+lot
+5.
+contenu EN POIDS, volume OU UNITE
+6.
+AUTRES
+156 mention devant FIGURER SUR L’ emballage EXTERIEUR
+emballage EXTERIEUR
+1.
+DENOMINATION DU MEDICAMENT
+Abseamed 10 000 UI/ 1 ml, solution injectable en seringue pré-remplie
+Époétine alfa
+2.
+composition EN SUBSTANCE(S) ACTIVE(S)
+1 seringue pré-remplie de 1 millilitre contient 10 000 unité internationale (UI) soit 84,0 microgrammes d’ époétine alfa
+3.
+liste DES excipient
+Excipients: phosphate phosphate phosphate cellulose microcristalline hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium, hydroxyde de sodium (pour ajustement du pH) (pour ajustement du pH) (pour ajustement du pH) et eau pour l’ eau injectable
+4.
+forme PHARMACEUTIQUE ET contenu
+solution injectable en seringue pré-remplie.
+1 seringue pré-remplie de 1 millilitre 6 seringue pré-remplies de 1 millilitre
+5.
+mode ET VOIE(S) D' administration
+voie intraveineuse et sous-cutanée.
+lire la notice avant utilisation.
